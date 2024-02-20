@@ -1,0 +1,50 @@
+.header{
+    display:flex;
+    background-color:#1F2937;
+    font-family:"Roboto", serif; 
+    align-items:center;
+    padding-left:100px;
+    padding-right:100px;
+
+    
+    
+
+    
+}
+
+.logo{
+    font-size:24px;
+    color:white;
+    margin:10px;
+    
+    
+    
+}
+
+.headerlinks{
+    display:flex;
+    justify-content:flex-end;
+    flex-grow:1;
+    
+    
+}
+
+a{
+    font-family:"Roboto", serf;
+    font-size:18px;
+    color:#E5E7EB;
+    text-decoration:none;
+    
+}
+
+ul{
+    list-style-type:none;
+    align-items:center;
+    display:flex;
+    padding:30px;
+    margin:10px;
+    gap:20px;
+    
+    
+}
+
