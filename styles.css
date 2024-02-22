@@ -109,9 +109,37 @@ h2{
     border-radius:5px;
 }
 
+.quote-wrapper{
+    background-color:#E5E7EB;
+    
+}
 
+.quote{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    margin:100px;
+    padding-left:400px;
+    padding-right:400px;
+    flex-direction:column;
+    
+}
 
+.bird-quote{
+    font-size:36px;
+    font-style:italic;
+    color:#1f2937;
+    font-weight:300;
 
+}
+
+.author{
+    font-weight:900;
+    align-self:flex-end;
+
+    
+    
+}
 
 
 a{
